@@ -1,3 +1,5 @@
+# Arkose now supports GPT-4 as late as gpt-4-1106-preview!
+
 # Arkose, a GPT-3 enhanced document editor
 
 Arkose is a no-frills document editor that talks with OpenAI's GPT-3 language model API.  
